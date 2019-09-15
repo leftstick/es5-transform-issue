@@ -1,0 +1,28 @@
+{
+  "name": "es5-transform-issue",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leftstick/es5-transform-issue.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leftstick/es5-transform-issue/issues"
+  },
+  "homepage": "https://github.com/leftstick/es5-transform-issue#readme",
+  "devDependencies": {
+    "@babel/core": "^7.6.0",
+    "@babel/preset-env": "^7.6.0",
+    "babel-loader": "^8.0.6",
+    "webpack": "^4.40.2",
+    "webpack-cli": "^3.3.8"
+  },
+  "dependencies": {
+    "debug": "^4.1.1"
+  }
+}
